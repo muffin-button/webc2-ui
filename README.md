@@ -1,2 +1,2 @@
 # webc2-ui
-Lightweight UI for WebC2
+UI for WebC2
